@@ -74,6 +74,8 @@ text-algin:center
 
 <header>
 
+</title>
+
 <div class="Edit Videos">AAAL-Productions</div>
 
 <nav>

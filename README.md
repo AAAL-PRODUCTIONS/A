@@ -3,12 +3,13 @@
 
 <head>
 
-<title>AAAl-Productions</title>
+<title> AAAl-Productions</title>
 
-<style>
+<style> 
 {Margin:o;
 padding:0;
 }
+
 heder{
 height:60px;
 bedkground:#262626;
@@ -24,17 +25,21 @@ line-heght:60px;
 font-size:35px;
 font-family:sans-serif;
 }
+
 mav{
 width:68%;
 float:righy;
 }
+
 nav ul{
 list style:none;
 flat:right;
 }
+
 nav ul li{
 display: inline-block;
 }
+
 nav ul li a{
 text-decoration: none;
 color#fff;
@@ -44,28 +49,34 @@ margin:0 10px;
 line-heght:60px;
 text-transform:uppercase;
 }
+
 .banner{
 height:100%;
 }
+
 .banner img {
 width:100%
 height:90hv
 }
+
 .content{
 padding:5%;
 }
+
 .content p{
 font-size:18px;
 line-height:1.7;
 font-family:sans-serif;
 margin-bottoom:25px;
 }
+
 footer{
 beckground:#000;
 color:#fff;
 padding:15px 50px;
 text-algin:center
 }
+
 </style>
 
 </head>
@@ -73,6 +84,8 @@ text-algin:center
 <body>
 
 <header>
+
+</title>
 
 <div class="Edit Videos">AAAL-Productions</div>
 

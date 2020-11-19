@@ -6,6 +6,67 @@
 <title>AAAl-Productions</title>
 
 <style>
+{Margin:o;
+padding:0;
+}
+heder{
+height:60px;
+bedkground:#262626;
+padding:0 50px;
+}
+.logo{
+width:30%
+float:left;
+color:#fff;
+font-weight:blod;
+text-transform:uppercase;
+line-heght:60px;
+font-size:35px;
+font-family:sans-serif;
+}
+mav{
+width:68%;
+float:righy;
+}
+nav ul{
+list style:none;
+flat:right;
+}
+nav ul li{
+display: inline-block;
+}
+nav ul li a{
+text-decoration: none;
+color#fff;
+font-family:sans-sirf;
+font-weight:blod;
+margin:0 10px;
+line-heght:60px;
+text-transform:uppercase;
+}
+.banner{
+height:100%;
+}
+.banner img {
+width:100%
+height:90hv
+}
+.content{
+padding:5%;
+}
+.content p{
+font-size:18px;
+line-height:1.7;
+font-family:sans-serif;
+margin-bottoom:25px;
+}
+footer{
+beckground:#000;
+color:#fff;
+padding:15px 50px;
+text-algin:center
+}
+</style>
 
 </head>
 
@@ -13,55 +74,42 @@
 
 <header>
 
-<div class="Edit Videos">Edit</div>
+<div class="Edit Videos">AAAL-Productions</div>
 
 <nav>
 <ul>
-<li><a herf="#">Home</li>
-<li><a herf="#">Product</li>
-<li><a herf="#">Information</li>
-<li><a herf="#">Prices</li>
-<li><a herf="#">Contacs</li>
+<li><a herf="#">Home</a></li>
+<li><a herf="#">Product</a></li>
+<li><a herf="#">Information</a></li>
+<li><a herf="#">Prices</a></li>
+<li><a herf="#">Contacs</a></li>
 </ul>
 </nav>
 </header>
 
 <div class="banner">
-<img src="none" alt"">
+<img src="jpg1" alt"">
 </div>
 
 <div class="content">
-
-<p> Heute ist der 16. Tag unserer Spendenkampagne. Zum ersten Mal seit langem möchten wir Sie an diesem Donnerstag bescheiden darum bitten, 
-die Unabhängigkeit von Wikipedia zu verteidigen. Insgesamt spenden 99% unserer Leserinnen und Leser nichts – sie übergehen diesen Aufruf. 
-Sollten Sie zu dem kleinen Kreis gehören, die bereits gespendet haben, danken wir Ihnen sehr herzlich. Wikipedia wird durch Spenden von durchschnittlich 22,81 € 
-finanziert. Doch schon mit einer Spende von 5 € kann Wikipedia sich auch in Zukunft erfolgreich entwickeln. Über 7 Millionen Mal wird unser Spendenaufruf 
-täglich angezeigt, aber nur 160.727 Menschen haben bisher gespendet. Die meisten Menschen spenden, weil sie Wikipedia nützlich finden. 
-Hat Wikipedia Ihnen in diesem Jahr Wissen im Wert von 5 € geschenkt? Dann nehmen Sie sich doch bitte eine Minute Zeit und geben Sie etwas zurück.
- Zeigen Sie den Freiwilligen, die Ihnen verlässliche und neutrale Informationen zur Verfügung stellen, dass Sie ihre Arbeit wertschätzen. Vielen Dank!
-3,8 Mio. €
-Spendenziel: 8,7 Mio. €
-einmalig</p>
-<p>Heute ist der 16. Tag unserer Spendenkampagne. Zum ersten Mal seit langem möchten wir Sie an diesem Donnerstag bescheiden darum bitten, 
-die Unabhängigkeit von Wikipedia zu verteidigen. Insgesamt spenden 99% unserer Leserinnen und Leser nichts – sie übergehen diesen Aufruf. 
-Sollten Sie zu dem kleinen Kreis gehören, die bereits gespendet haben, danken wir Ihnen sehr herzlich. Wikipedia wird durch Spenden von durchschnittlich 22,81 € 
-finanziert. Doch schon mit einer Spende von 5 € kann Wikipedia sich auch in Zukunft erfolgreich entwickeln. Über 7 Millionen Mal wird unser Spendenaufruf 
-täglich angezeigt, aber nur 160.727 Menschen haben bisher gespendet. Die meisten Menschen spenden, weil sie Wikipedia nützlich finden. 
-Hat Wikipedia Ihnen in diesem Jahr Wissen im Wert von 5 € geschenkt? Dann nehmen Sie sich doch bitte eine Minute Zeit und geben Sie etwas zurück.
- Zeigen Sie den Freiwilligen, die Ihnen verlässliche und neutrale Informationen zur Verfügung stellen, dass Sie ihre Arbeit wertschätzen. Vielen Dank!
-3,8 Mio. €
-Spendenziel: 8,7 Mio. €
-einmalig</p>
-<p>Heute ist der 16. Tag unserer Spendenkampagne. Zum ersten Mal seit langem möchten wir Sie an diesem Donnerstag bescheiden darum bitten, 
-die Unabhängigkeit von Wikipedia zu verteidigen. Insgesamt spenden 99% unserer Leserinnen und Leser nichts – sie übergehen diesen Aufruf. 
-Sollten Sie zu dem kleinen Kreis gehören, die bereits gespendet haben, danken wir Ihnen sehr herzlich. Wikipedia wird durch Spenden von durchschnittlich 22,81 € 
-finanziert. Doch schon mit einer Spende von 5 € kann Wikipedia sich auch in Zukunft erfolgreich entwickeln. Über 7 Millionen Mal wird unser Spendenaufruf 
-täglich angezeigt, aber nur 160.727 Menschen haben bisher gespendet. Die meisten Menschen spenden, weil sie Wikipedia nützlich finden. 
-Hat Wikipedia Ihnen in diesem Jahr Wissen im Wert von 5 € geschenkt? Dann nehmen Sie sich doch bitte eine Minute Zeit und geben Sie etwas zurück.
- Zeigen Sie den Freiwilligen, die Ihnen verlässliche und neutrale Informationen zur Verfügung stellen, dass Sie ihre Arbeit wertschätzen. Vielen Dank!
-3,8 Mio. €
-Spendenziel: 8,7 Mio. €
-einmalig</p>
+<p>text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,
+text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,
+text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,
+text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,
+text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,
+text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,</p>
+<p>text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,
+text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,
+text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,
+text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,
+text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,
+text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,</p>
+<p>text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,
+text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,
+text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,
+text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,
+text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,
+text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,text,</p>
 
 </div>
 
